@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyView&amp;Views</string>
+    <string name="content_text">Apple officially announced its much-anticipated Apple phones; the Iphone 14 and Iphone 14 Plus, onOctober 4. We attended Apple’s London UK event, mirroring the main one taking place in San Francisco, US, where the firmunwrapped the new IOS 16 devices which willapparently usurp Apple’s long-standing Nexus series</string>
+    <string name="content_specs_display">6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio)\n1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)\nCeramic Shield glass</string>
+    <string name="content_specs_size">146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in)</string>
+    <string name="content_specs_battery">Li-Ion 3279 mAh, non-removable (12.68 Wh)\nStandby time (LTE): up to 19 days\nTalk time (3g/WCDMA): up to 26 hours\nInternet use time (Wi-Fi): up to 13 hours\nInternet use time (LTE): up to 13 hours\n Video playback: up to 13 hours\nAudio playback (via headset): up to 110 hours\nFast charging: up to 7 hours of use from only 15 minutesof charging</string>
+    <string name="dummy_photos">6 Photos</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Narenda Wicaksono</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$735</string>
+</resources>
